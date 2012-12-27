@@ -67,6 +67,7 @@ body {
 .listright a {
 	text-decoration: none;
 	color: white;
+	text-decoration: bold;
 }
 
 #home {
@@ -90,12 +91,14 @@ body {
 .clearfix{
 	clear: both;
 }
+
 .listleft {
 	background: url(listleft.png) no-repeat;
 	width: 431px;
 	height: 219px;
 	float: left;
-}
+	font-family: "Dead Secretary";
+	}
 .listright {
 	background: url(listright.png) no-repeat;
 	width: 361px;
@@ -144,19 +147,19 @@ body {
 	float: right;
 	h1 {
 		margin-top: 20px;
-		font-size: 20px;
+		font-size: 22px;
 		margin-left: 24px;
 	}
 	ul {
 		margin-left: 24px;
-    	margin-top: 30px;
+    	margin-top: 15px;
     	li{
-    	 padding-bottom: 10px;
+    	 padding-bottom: 18px;
     	}
 	}
 	a {
 		text-decoration: none;
-		color: #C12D00;
+		color: #EA1000;
 		margin-top: 20px;
 		font-size: 18px;
 	}	
@@ -175,11 +178,25 @@ body {
 	h1 {
 		padding-left: 30px;
 		padding-right: 28px;
-	    padding-top: 25px;
+	    padding-top: 15px;
 	}
 }
 .footer {
 	width: 100%;
-	height: 100px;
-	background-color: black;
+	height: 70px;
+	background-color: #150901;
+}
+.big_list{
+	background: url(big_list.png) no-repeat;
+	left: 87px;
+    position: relative;
+    padding-right: 30px;
+    .text {
+    	height: 700px;
+    	width: 600px;
+    	padding-left: 30px;
+		padding-right: 28px;
+	    padding-top: 15px;
+	    color:#330000;
+    }
 }

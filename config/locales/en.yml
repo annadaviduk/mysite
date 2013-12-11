@@ -2,4 +2,23 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  hello: "Hello world"
+  home:
+    text: "“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” "
+    mainblock1: "Every website needs maintenance during its life to remain interesting and relevant. Therefore, we need to develop, improve, promote and frequently update new content on the site. That is the primary method that SEO can make your site popular and increase the amount of people that visit your site."
+    mainblock2: "Through blogs, we can discuss and share the secrets of successful promotion, white SEO tricks, CSS/ HTML difficulties, and Google analytics."
+    mainblock3: "The main purpose of the optimizer is to provide you with an opportunity to continuously learn new skills, improve your knowledge, and share your experiences with other optimizers."
+    mainblock4: "Blogs and forums can often be much more useful than books and tutorials since you can get the freshest and most useful information from blogs."
+    mainblock5: "So, let’s share and learn useful SEO tricks."
+  blog:
+    part1: "Buy or not to buy links"
+    part2: "A bit of history."
+    part3: "Do we need to buy links? Is it safe? Before answering this question we must go back to basics. Why do I need references? Can we not have a website these links with a high rating?"
+    part4: "Here's how Google ranks the web pages:"
+    part5: "Google is building according to the value of the ratings sites. Determining this value - is Page Rank. Google considers and evaluates the quality of links to web sites hosted on other sites. In other words, the link from site A to site B is considered the 'voice', and if the site B are linked to 300 sites, it is considered more important than the one to which are only 5 or 10 links (this is the case if the quality of the links about the same.) Thus, the more links leading to your website, it is considered that content of this site is interesting and useful. In the last 3-4 years, many site owners do link exchange - if you place on your site my banner, I'll post yours."
+    part6: "In my opinion, it is. And if you look at it from this point of view, buying links in our time should be standard practice."
+    part7: "You just have to be careful in this kind of promotion if your site is quite young and don't have much popularity. Google uses a lot of ways to identify sites that use this type of promotion. In worse case you site can be pushed down in search or even banned."
+    part8: "Hits and hosts"
+    part9: "Hosts - number of visitors from different IP-addresses, that is, the number of different people who have viewed your site."
+    part10: "A 'hit' occurs whenever a web browser requests a file on your website."
+    part11: "Of course, the picture is not entirely objective, because some users can work on the same computer or IP-address can be dynamic. In consequence, the number of hosts can be more real."
+    part12: "But in general, the analysis of hosts and hits gives an objective picture of your site traffic."
